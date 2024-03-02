@@ -1,34 +1,15 @@
-Replacement for Social Media
- - Cover Page with name
- - About Pofile page and my introduction, basic information
- - My Photos which I resonate with divided into albums
- - My Work / Art / Writing - can be comined to display art as cover for my writing
- - My projects - software products which can be bought by anyone
- - My Resume Download
- - Contact me
- - Games for interacting with the website (Tic Tac Toe with AI or multiplayers)
+# Hi there, I'm Raunak Batham! 👋
 
+## About Me
 
+- 🔭 I’m currently working on Microservices Architecture in Node.js
+- 🌱 I’m currently learning Advanced JavaScript Concepts
+- 👯 I’m looking to collaborate on New Technologies in Software Industry
+- 💬 Ask me about JavaScript, Node.js, React, etc.
+- 📫 How to reach me: 007raunakbatham@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Even as a tech-savvy JavaScript developer, I'm also a gourmet chef at heart, crafting culinary masterpieces that blend traditional and modern flavors, much like my approach to coding!
 
-Design would be late 90s and early 2000s. Inspired by `the facebook`
+## Connect with me:
 
-
-In future would like to work on cityville game.
-
-
-Would create a section called 'Museum of Lost Dreams', which will record all the ideas I wanted to implement but couldn't do.
-
-
-
-HOME
- - Header (Logo)
- - Cover Photo (With my name as watermark)
- - Navigation Bar
-   - About
-   - Photos
-   - Archives (List of blogs arranged month and year wise)
-   - Projects
-   - Museum of Lost Dreams
- - Page Content (Homepage or based on navigation bar)
- - Contact Me
- - Footer (Copyrights)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raunak%20Batham-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raunak-batham/)
